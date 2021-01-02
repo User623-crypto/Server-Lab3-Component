@@ -4,7 +4,7 @@ I pa përdorshëm
 ## Perdorimi për mësim
 * Bëj pull këtij projekti.
 * Bëj pull projektit Client-Lab3-Component
-* Filloj/Ekzekuto të dy projektet dhe selekto direktorin për të nisur serverin
+* Fillo/Ekzekuto të dy projektet dhe selekto direktorin për të nisur serverin
 * Porta 8808 duhet të jete e lirë ose të ndryshohet në të dy projektet
 
 ## Shënim
